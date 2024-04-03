@@ -29,5 +29,5 @@ Willkommen bei den Visualisierungen der MHC (Major Histocompatibility Complex) K
 
 ## Zusätzliche Hinweise
 
-- Die Diagramme sind "interaktiv"
+- Die Diagramme sind "interaktiv".
 - Wenn Sie beim Anzeigen der Diagramme auf Probleme stoßen oder Fragen haben, zögern Sie nicht, um Hilfe zu bitten.
